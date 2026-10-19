@@ -11,5 +11,5 @@
 
  `main()` function is called automatically when a program starts.
 
-`gcc -o hello hello.c` means: "compile hello.c, and output an executable called hello". It is possible to compile multiple files into a one big executable.
+`gcc -o hello hello.c` means: "compile hello.c, and output an executable called hello". > **_HDSUP:_** It is possible to compile multiple files into a one big executable.
 
