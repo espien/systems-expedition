@@ -1,5 +1,4 @@
 #include "strlength.h"
-#include <stdio.h>
 
 unsigned int strlength(char *str) {
   unsigned int length = 0;
