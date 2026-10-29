@@ -4,7 +4,7 @@ Embarasses to admit, but took me about an hour to finish again. I think, as alwa
 
 ## Lessons learned
 
-1. In if a `string` is for example, three characters long its size is 4, due to the NUL terminator. (This took me forever to figure out)
+1. In C if a `string` is for example, three characters long its size is **4** due to the NUL terminator. (This took me forever to figure out)
 2. It is not possible to declare a empty `string` with a char pointer. At least without `malloc`.
 
   ```
