@@ -1,5 +1,5 @@
-#include <stdio.h>
 #include "strlength.h"
+#include <stdio.h>
 
 int main(void) {
   char *string = "Wasabi";

@@ -2,8 +2,8 @@
 
 unsigned int strlength(char *str) {
   unsigned int length = 0;
-  for(int i = 0;;i++) {
-    if(!str[i]) {
+  for (int i = 0;; i++) {
+    if (!str[i]) {
       break;
     }
     length++;

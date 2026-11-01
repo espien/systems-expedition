@@ -1,7 +1,6 @@
 #include "strcopy.h"
 #include <stdio.h>
 
-
 int main(void) {
   char str1[4] = "Cat";
   char str2[4];
