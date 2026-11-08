@@ -9,3 +9,4 @@
 5. [Pointers](5_Pointers/NOTES.md)
 6. [Arrays](6_Arrays/NOTES.md)
 7. [Strings](7_Strings/NOTES.md)
+8. [Structs](8_Structs/NOTES.md)
