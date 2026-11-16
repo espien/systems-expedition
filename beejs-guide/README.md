@@ -3,10 +3,10 @@
 ## Chapters notes
 
 1. Foreword (I don't have any notes on this :P)
-2. [Hello, World!](2_Hello-World/NOTES.md)
-3. [Variables and Statements](3_Variables-and-Statements/NOTES.md)
-4. [Functions](4_Functions/NOTES.md)
-5. [Pointers](5_Pointers/NOTES.md)
-6. [Arrays](6_Arrays/NOTES.md)
-7. [Strings](7_Strings/NOTES.md)
-8. [Structs](8_Structs/NOTES.md)
+2. [Hello, World!](2_Hello-World/README.md)
+3. [Variables and Statements](3_Variables-and-Statements/README.md)
+4. [Functions](4_Functions/README.md)
+5. [Pointers](5_Pointers/README.md)
+6. [Arrays](6_Arrays/README.md)
+7. [Strings](7_Strings/README.md)
+8. [Structs](8_Structs/README.md)
